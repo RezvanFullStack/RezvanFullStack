@@ -44,17 +44,79 @@ const developer = {
 ```
 
 ---
+<div align="left" dir="ltr" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
 
-<div align="left" dir="ltr">
+  <h2 style="border-bottom: 1px solid #30363d; padding-bottom: 10px;">What I Build ⚡</h2>
 
-## ⚡ What I Build
+  <!-- Header Row -->
+  <div style="display: flex; justify-content: space-between; font-weight: 600; color: #8b949e; margin-bottom: 24px; padding: 0 10px;">
+    <div style="width: 35%; text-align: left;">Specialization & Highlights 📝</div>
+    <div style="width: 30%; text-align: center;">Tech Stack 💻</div>
+    <div style="width: 30%; text-align: right;">Core Domain 🏗️</div>
+  </div>
 
-| 🏗️ Core Domain | 💻 Tech Stack | 📋 Specialization & Highlights |
-| :--- | :--- | :--- |
-| 🌐 **Backend & APIs** | `Node.js` `NestJS` `TypeScript` | RESTful APIs, Microservices, Clean Architecture & SOLID principles |
-| 🎨 **Frontend & UIs** | `React` `Next.js` `Tailwind CSS` | High-performance Web Apps, SSR/SSG & Modern UX Architecture |
-| 💾 **Data Layer** | `SQL` `PostgreSQL` `Prisma/TypeORM` | Schema Design, Query Optimization, Indexing & Complex Migrations |
-| ⚙️ **DevOps & Integration** | `CI/CD` `Git` `Docker` | End-to-End System Integration & High-Availability Deployments |
+  <!-- Row 1: Backend & APIs -->
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 32px; padding: 12px 10px; border-bottom: 1px solid rgba(255, 255, 255, 0.05);">
+    <div style="width: 35%; text-align: left; color: #c9d1d9; font-size: 14px; line-height: 1.6;">
+      RESTful APIs, Microservices, Clean Architecture & SOLID principles
+    </div>
+    <div style="width: 30%; text-align: center;">
+      <span style="background-color: #f0f6fc10; color: #8b949e; padding: 4px 10px; border-radius: 12px; font-family: monospace; font-size: 13px; margin: 2px;">Node.js</span>
+      <span style="background-color: #f0f6fc10; color: #8b949e; padding: 4px 10px; border-radius: 12px; font-family: monospace; font-size: 13px; margin: 2px;">NestJS</span>
+      <br/><br/>
+      <span style="background-color: #f0f6fc10; color: #8b949e; padding: 4px 10px; border-radius: 12px; font-family: monospace; font-size: 13px; margin: 2px;">TypeScript</span>
+    </div>
+    <div style="width: 30%; text-align: right; font-weight: 600; color: #f0f6fc; font-size: 15px;">
+      Backend & APIs 🌐
+    </div>
+  </div>
+
+  <!-- Row 2: Frontend & UIs -->
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 32px; padding: 12px 10px; border-bottom: 1px solid rgba(255, 255, 255, 0.05);">
+    <div style="width: 35%; text-align: left; color: #c9d1d9; font-size: 14px; line-height: 1.6;">
+      High-performance Web Apps, SSR/SSG & Modern UX Architecture
+    </div>
+    <div style="width: 30%; text-align: center;">
+      <span style="background-color: #f0f6fc10; color: #8b949e; padding: 4px 10px; border-radius: 12px; font-family: monospace; font-size: 13px; margin: 2px;">React</span>
+      <span style="background-color: #f0f6fc10; color: #8b949e; padding: 4px 10px; border-radius: 12px; font-family: monospace; font-size: 13px; margin: 2px;">Next.js</span>
+      <br/><br/>
+      <span style="background-color: #f0f6fc10; color: #8b949e; padding: 4px 10px; border-radius: 12px; font-family: monospace; font-size: 13px; margin: 2px;">Tailwind CSS</span>
+    </div>
+    <div style="width: 30%; text-align: right; font-weight: 600; color: #f0f6fc; font-size: 15px;">
+      Frontend & UIs 🎨
+    </div>
+  </div>
+
+  <!-- Row 3: Data Layer -->
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 32px; padding: 12px 10px; border-bottom: 1px solid rgba(255, 255, 255, 0.05);">
+    <div style="width: 35%; text-align: left; color: #c9d1d9; font-size: 14px; line-height: 1.6;">
+      Schema Design, Query Optimization, Indexing & Complex Migrations
+    </div>
+    <div style="width: 30%; text-align: center;">
+      <span style="background-color: #f0f6fc10; color: #8b949e; padding: 4px 10px; border-radius: 12px; font-family: monospace; font-size: 13px; margin: 2px;">SQL</span>
+      <span style="background-color: #f0f6fc10; color: #8b949e; padding: 4px 10px; border-radius: 12px; font-family: monospace; font-size: 13px; margin: 2px;">PostgreSQL</span>
+      <br/><br/>
+      <span style="background-color: #f0f6fc10; color: #8b949e; padding: 4px 10px; border-radius: 12px; font-family: monospace; font-size: 13px; margin: 2px;">Prisma/TypeORM</span>
+    </div>
+    <div style="width: 30%; text-align: right; font-weight: 600; color: #f0f6fc; font-size: 15px;">
+      Data Layer 💾
+    </div>
+  </div>
+
+  <!-- Row 4: DevOps & Integration -->
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 24px; padding: 12px 10px;">
+    <div style="width: 35%; text-align: left; color: #c9d1d9; font-size: 14px; line-height: 1.6;">
+      End-to-End System Integration & High-Availability Deployments
+    </div>
+    <div style="width: 30%; text-align: center;">
+      <span style="background-color: #f0f6fc10; color: #8b949e; padding: 4px 10px; border-radius: 12px; font-family: monospace; font-size: 13px; margin: 2px;">CI/CD</span>
+      <span style="background-color: #f0f6fc10; color: #8b949e; padding: 4px 10px; border-radius: 12px; font-family: monospace; font-size: 13px; margin: 2px;">Git</span>
+      <span style="background-color: #f0f6fc10; color: #8b949e; padding: 4px 10px; border-radius: 12px; font-family: monospace; font-size: 13px; margin: 2px;">Docker</span>
+    </div>
+    <div style="width: 30%; text-align: right; font-weight: 600; color: #f0f6fc; font-size: 15px;">
+      DevOps & Integration ⚙️
+    </div>
+  </div>
 
 </div>
 
