@@ -1,23 +1,43 @@
-<h1 align="center">⚡ import { Rezvan } from 'universe';</h1>
+# ⚡ Hi there, I'm Alireza! <img src="https://media.giphy.com/media/hvRJ5Gzzz6mo8/giphy.gif" width="30px">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;NestJS+%7C+React+%7C+TypeScript;Always+Learning!" alt="Typing SVG" />
+### 🚀 Senior Full-Stack Developer & Software Engineer 
+*Crafting scalable, high-performance web applications with modern tech stacks.*
+
+---
+
+## 💻 Tech Stack & Tools
+
+### 🌐 Backend & Architecture
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+### 🎨 Frontend & UI
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🛠️ About Me
 
 ```javascript
-const Rezvan = {
-  role: "Full Stack Developer",
+const developer = {
+  name: "Alireza Rezvan",
+  role: "Full-Stack Developer",
   location: "Islamic Republic of Iran",
-  passion: "ساخت اپلیکیشن‌های مقیاس‌پذیر",
-  skills: {
-    backend: ["NestJS", "Node.js", "TypeScript", "JavaScript"],
-    frontend: ["React", "Next.js", "HTML5", "CSS3"],
-    databases: ["PostgreSQL", "SQL"]
+  passion: "ساخت اپلیکیشن‌های مقیاس‌پذیر و بهینه‌سازی شده 🚀",
+  currentFocus: {
+    learning: ["Docker", "Microservices (میکروسرویس‌ها)"],
+    building: "Modern web experiences & high-performance APIs"
   },
-  currently: "یادگیری میکروسرویس‌ها و Docker"
+  philosophy: "Problem solver by day, performance optimiser by night."
 };
-
